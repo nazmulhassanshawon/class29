@@ -1,3 +1,9 @@
-.primary-color{
-    color: red;
+.header , .footer{
+    height: 100px;
+}
+.nav , .main{
+    height: 500px;
+}
+.adv1 , .adv2{
+    height: 250px;
 }
